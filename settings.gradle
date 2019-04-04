@@ -1,1 +1,1 @@
-include ':app', ':usbfunctionlibrary'
+include ':usbfunctionlibrary'
